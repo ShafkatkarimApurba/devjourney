@@ -27,6 +27,7 @@ DevJourney/
 ├── Bengali_AI_Training_Tracker.html
 ├── CommandCenter.html
 ├── docs/                     # Service pages source
+│   ├── ARCHITECTURE.md        # Public project map
 │   ├── index.html
 │   └── services/
 │       ├── fullstack.html
@@ -34,13 +35,27 @@ DevJourney/
 │       └── bengali-ai.html
 ├── portfolio/                # Portfolio assets
 │   ├── index.html
-│   └── case-studies.html
+│   ├── case-studies.html
+│   └── jgmart-case-study.md
 └── Freelancing/              # Revenue assets
     ├── PROPOSAL_GENERATOR.md
     ├── BUSINESS_PACK.md
     ├── READY_TO_SEND_EMAILS.md
+    ├── REVENUE_ASSET_INDEX.md
+    ├── REVENUE_ACTION_TRACKER.md
     └── README.md
 ```
+
+---
+
+## Revenue asset index
+
+Send only what is indexed. Full table: [Freelancing/REVENUE_ASSET_INDEX.md](Freelancing/REVENUE_ASSET_INDEX.md).
+
+- Proposal generator, business pack, ready-to-send emails, application follow-ups.
+- JG Mart case study: [portfolio/jgmart-case-study.md](portfolio/jgmart-case-study.md) — pilot narrative, not a revenue claim.
+- Weekly scoreboard: [Freelancing/REVENUE_ACTION_TRACKER.md](Freelancing/REVENUE_ACTION_TRACKER.md).
+- Architecture map: [docs/ARCHITECTURE.md](docs/ARCHITECTURE.md).
 
 ---
 
